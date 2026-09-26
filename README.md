@@ -38,6 +38,7 @@ Atualmente, o sistema trabalha com contas bancárias e permite realizar operaç�
 ```text
 system_accounts_banking/
 ├── main.py
+├── conta.py
 └── README.md
 ```
 
@@ -70,7 +71,7 @@ Depositar valor
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/system-accounts-banking.git
+git clone https://github.com/william-grassis67/system-accounts-banking.git
 ```
 
 Entre na pasta:
@@ -107,7 +108,7 @@ Durante o desenvolvimento, estou praticando principalmente:
 
 Algumas melhorias planejadas:
 
-* [ ] Finalizar sistema de transferências
+* [*] Finalizar sistema de transferências
 * [ ] Melhorar validações
 * [ ] Criar menu interativo
 * [ ] Impedir operações inválidas
