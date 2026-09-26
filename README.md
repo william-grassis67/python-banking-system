@@ -108,7 +108,7 @@ Durante o desenvolvimento, estou praticando principalmente:
 
 Algumas melhorias planejadas:
 
-* [*] Finalizar sistema de transferências
+* [ ] Finalizar sistema de transferências
 * [ ] Melhorar validações
 * [ ] Criar menu interativo
 * [ ] Impedir operações inválidas
